@@ -1,0 +1,10 @@
+2025-08-05 18:06:49,891 - RPABot - DEBUG - MainThread - Iniciando configuração do bot
+2025-08-05 18:06:49,893 - RPABot - INFO - MainThread - Bot configurado com sucesso
+2025-08-05 18:06:49,893 - RPABot - WARNING - MainThread - Timeout detectado, tentando novamente
+2025-08-05 18:06:49,894 - RPABot - ERROR - MainThread - Falha ao conectar com o servidor
+2025-08-05 18:06:49,894 - RPABot - CRITICAL - MainThread - Processo interrompido por erro crítico
+2025-08-05 18:07:16,392 - RPABot - DEBUG - MainThread - Iniciando configuração do bot
+2025-08-05 18:07:16,392 - RPABot - INFO - MainThread - Bot configurado com sucesso
+2025-08-05 18:07:16,393 - RPABot - WARNING - MainThread - Timeout detectado, tentando novamente
+2025-08-05 18:07:16,394 - RPABot - ERROR - MainThread - Falha ao conectar com o servidor
+2025-08-05 18:07:16,394 - RPABot - CRITICAL - MainThread - Processo interrompido por erro crítico
